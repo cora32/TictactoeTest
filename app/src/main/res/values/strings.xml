@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tictactoe</string>
+    <string name="select_player">Choose your side</string>
+    <string name="cross">cross</string>
+    <string name="zero">zero</string>
+    <string name="iv_transition_o">iv_transition_o</string>
+    <string name="iv_transition_x">iv_transition_x</string>
+    <string name="delimiter">:</string>
+    <string name="score_0">0</string>
+    <string name="player_side_cross">cross</string>
+    <string name="player_side_cirle">circle</string>
+    <string name="restart">Restart?</string>
+</resources>
